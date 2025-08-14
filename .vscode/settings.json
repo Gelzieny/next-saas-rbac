@@ -3,5 +3,15 @@
     {
       "mode": "auto"
     }
-  ]
+  ],
+   "editor.formatOnSave": true,
+  "editor.defaultFormatter": "biomejs.biome",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "source": "Git Bash"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "liveServer.settings.port": 5501,
 }
